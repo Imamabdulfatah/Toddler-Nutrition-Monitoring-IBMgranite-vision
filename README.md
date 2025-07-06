@@ -57,7 +57,7 @@ Optional: Local dataset of Indonesian food images for fine-tuning
 
 Setup Instructions
 
-Clone the Repository:git clone https://github.com/username/toddler-nutrition-monitor.git
+Clone the Repository: git clone https://github.com/username/toddler-nutrition-monitor.git](https://github.com/Imamabdulfatah/Toddler-Nutrition-Monitoring-IBMgranite-vision
 cd toddler-nutrition-monitor
 
 
